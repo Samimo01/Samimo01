@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samy</h1>
 <h3 align="center">A 4th year software engineering student from Algeria</h3>
 
-- 🌱 I’m currently learning **MERN fullstack**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 📫 How to reach me **samy.am.belaloui@gmail.com**
 
